@@ -112,7 +112,3 @@ Install-Module -Name ImportExcel
 ## 📄 License
 This script is licensed under [MIT License](https://opensource.org/licenses/MIT).  
 Feel free to fork, modify, or share.
-
----
-
-Let me know if you need help with anything else! 😊
