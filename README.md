@@ -18,7 +18,7 @@ Before running this script, ensure you have:
 2. **Excel Data File:**  
    The script expects the input data to be in a file named `raffle.xlsx`. Ensure this Excel file exists and has the following structure:
 
-   | **Name**    | **Lose** |
+   | **Name**    | **Tickets** |
    |-------------|---------|
    | Alice       | 5       |
    | Bob         | 3       |
