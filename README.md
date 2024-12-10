@@ -71,7 +71,7 @@ Before running this script, ensure you have:
 2. **Run the Script:**  
    Run the script using PowerShell:
    ```powershell
-   .\YourScriptName.ps1
+   .\raffle.ps1
    ```
 
 3. **Check Results:**  
