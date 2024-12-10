@@ -16,7 +16,7 @@ Before running this script, ensure you have:
    ```
 
 2. **Excel Data File:**  
-   The script expects the input data to be in a file named `raffle.xlsx`. Ensure this Excel file exists and has the following structure:
+   The script expects the input data to be in a file named `raffle.xlsx` which needs to be in the same dictonary like the `Raffle.ps1`. Ensure this Excel file exists and has the following structure:
 
    | **Name**    | **Tickets** |
    |-------------|---------|
@@ -25,14 +25,10 @@ Before running this script, ensure you have:
    | Charlie     | 2       |
 
    - **Column 1:** `Name` – Participant's name.  
-   - **Column 2:** `Lose` – The number of tickets each participant has purchased.
+   - **Column 2:** `Tickets` – The number of tickets each participant has purchased.
 
 3. **File Path:**  
-   The script expects this file to exist at:  
-   ```
-   C:\Users\yourusername\Desktop\Teilnehmerliste.xlsx
-   ```
-   Update the `$excelPath` variable in the script if your file is located elsewhere.
+   The script expects this file to exist at the same path as `Raffle.ps1`
 
 ---
 
