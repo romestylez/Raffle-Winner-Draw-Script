@@ -62,7 +62,7 @@ Before running this script, ensure you have:
 ## ⚙️ How to Use
 
 1. **Setup Prerequisites:**  
-   Ensure `ImportExcel` is installed and the input file is ready with proper data. Modify `$excelPath` if necessary.
+   Ensure `ImportExcel` is installed and the input file is ready with proper data.
 
 2. **Run the Script:**  
    Run the script using PowerShell:
